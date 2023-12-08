@@ -1,0 +1,15 @@
+.head {
+  display: flex;
+  height: 80px;
+  background-color: rgb(23, 20, 100);
+
+  position: fixed;
+  width: 100%;
+}
+.name {
+  color: aqua;
+  font-size: 20px;
+  margin-top: 20px;
+  position: absolute;
+  margin-left: 40px;
+}
