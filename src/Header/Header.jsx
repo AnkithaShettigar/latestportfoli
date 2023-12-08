@@ -10,6 +10,7 @@ const Header = () => {
       <div className="head-right">
         <div>{/* <FontAwesomeIcon icon="fa-solid fa-brightness" /> */}</div>
       </div>
+      <div>Hello</div>
     </div>
   );
 };
